@@ -1,0 +1,59 @@
+21:54:04.533 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+21:54:10.083 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+21:54:10.089 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+21:54:14.052 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+21:54:18.347 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+21:54:30.387 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+21:54:30.391 [main] INFO  testCases.TC003_LoginDDT - **** Starting TC003_LoginDDT ****
+21:54:41.419 [main] INFO  testCases.TC003_LoginDDT - **** Finished TC003_LoginDDT ****
+11:34:45.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/erickfloresovando/Documents/Programming/IdeaProjects/OpencartV121/crossbrowsertesting.xml
+
+11:34:57.021 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+11:34:59.682 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+11:35:01.910 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+11:35:06.967 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:35:07.129 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:35:07.172 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+11:35:08.386 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:35:08.547 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:35:08.738 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+11:35:13.972 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:35:14.224 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:35:14.253 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+11:35:14.975 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+11:35:14.995 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+11:35:24.013 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+19:58:45.286 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/erickfloresovando/Documents/Programming/IdeaProjects/OpencartV121/grouping.xml
+
+20:03:49.410 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/erickfloresovando/Documents/Programming/IdeaProjects/OpencartV121/grouping.xml
+
+20:03:57.369 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:03:57.437 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:03:58.088 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:04:00.028 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:04:00.322 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+20:04:03.746 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+20:14:58.799 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/erickfloresovando/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml
+
+20:15:45.992 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/erickfloresovando/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml
+
+20:16:50.154 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/erickfloresovando/Documents/Programming/IdeaProjects/OpencartV121/grouping.xml
+
+20:16:56.602 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:16:56.670 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:16:57.336 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+20:17:07.913 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+20:17:07.936 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+20:17:11.208 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+20:20:55.461 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  /Users/erickfloresovando/Documents/Programming/IdeaProjects/OpencartV121/grouping.xml
+
+20:21:02.834 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+20:21:02.903 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+20:21:03.525 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
