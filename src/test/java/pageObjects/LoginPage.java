@@ -10,6 +10,7 @@ public class LoginPage extends BasePage{
     public LoginPage(WebDriver driver){
         super(driver);
     }
+
     //Locators
     @FindBy(xpath = "//input[@id='input-email']")
     WebElement txtEmailAddress;

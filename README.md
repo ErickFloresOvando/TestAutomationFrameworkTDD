@@ -1,8 +1,24 @@
-# Selenium Test Automation Framework (TAF)
+<h1> Selenium Test Automation Framework (TAF) </h1>
 
-A modular, scalable, and maintainable automation suite built with **Java** and **Selenium WebDriver**. 
+## 📌 Project Overview
+This framework implements a Hybrid Automation architecture to ensure that tests are resilient to UI changes and easy to scale.
+It is a modular, scalable, and maintainable automation suite built with Java and Selenium WebDriver.
 
-This framework implements a multi-layered architecture to ensure that tests are resilient to UI changes and easy to scale.
+## 🚀 **Technologies & Tools**
+- Java 17 (Temurin 17)
+- Selenium WebDriver v4.38.0
+- TestNG
+- Maven
+- Postman
+- Jenkins
+
+## 🛠️ Project Setup
+ Prerequisites:
+- Java JDK 17 installed.
+
+- Maven installed and configured in your system path.
+
+- Google Chrome browser updated to the latest version.
 
 ## 🏗 Architecture & Design Patterns
 

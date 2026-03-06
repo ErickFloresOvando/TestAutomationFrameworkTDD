@@ -6,7 +6,7 @@ import org.openqa.selenium.support.PageFactory;
 //BasePage contains only constructor
 
 public class BasePage {
-    WebDriver driver;
+   private WebDriver driver;
 
     //Constructor
     public BasePage(WebDriver driver){
