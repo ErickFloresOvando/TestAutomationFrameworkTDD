@@ -37,14 +37,22 @@ The website contains typical e-commerce functionality such as:
 
 This project goes beyond basic scripting by implementing industry-standard design patterns:
 
--✅ **Page Object Model (POM) Design Pattern**
--✅ **Page Factory**
--✅ **Business Objects (BO)**
+✅ **Page Object Model (POM) Design Pattern**
+
+✅ **Page Factory**
+
+✅ **Business Objects (BO)**
+
 ✅ **Data-Driven Testing**
+
 ✅ **Utilities Layer**
+
 ✅ **Parallel Execution Support**
+
 ✅ **Cross Browser Testing**
+
 ✅ **Maven Build Management **
+
 ✅ **TestNG Execution and Assertions**
 ✅ **HTML Reports (Extent Reports / TestNG Reports)**
 ✅ **Logging using Log4j2**
