@@ -1,3 +1,10 @@
 20:27:19.064 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
 20:27:19.442 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
 20:27:20.778 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+17:36:52.162 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001_AccountRegistrationTest ****
+17:36:53.934 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+17:36:55.424 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+17:37:05.999 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+17:37:06.026 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
+17:37:10.563 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
+17:37:12.524 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****

@@ -1,4 +1,4 @@
-<h1> Selenium Test Automation Framework (TAF) </h1>
+<h1> TDD Test Automation Framework (TAF) </h1>
 
 ## 📌 Project Overview
 This framework implements a Hybrid Automation architecture to ensure that tests are resilient to UI changes and easy to scale.
@@ -60,3 +60,8 @@ This project goes beyond basic scripting by implementing industry-standard desig
 ✅ **Logging using Log4j2**
 
 ✅ **Screenshot Capture on Failure**
+
+## 🛠️ Execution Guide
+You can run tests directly from the terminal or command prompt.
+Bash
+mvn clean test
