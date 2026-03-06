@@ -51,9 +51,12 @@ This project goes beyond basic scripting by implementing industry-standard desig
 
 ✅ **Cross Browser Testing**
 
-✅ **Maven Build Management **
+✅ **Maven Build Management**
 
 ✅ **TestNG Execution and Assertions**
+
 ✅ **HTML Reports (Extent Reports / TestNG Reports)**
+
 ✅ **Logging using Log4j2**
+
 ✅ **Screenshot Capture on Failure**
