@@ -24,20 +24,15 @@ It is a modular, scalable, and maintainable automation suite built with Java and
 
 This project goes beyond basic scripting by implementing industry-standard design patterns:
 
-* **Page Object Model (POM):** Decouples the test scripts from the UI locators.
-* **Page Factory:** Optimized element initialization using the `@FindBy` annotation.
-* **Business Objects (BO):** An additional abstraction layer that encapsulates common user journeys (e.g., `AccountCreationBO`), making tests more readable and focused on "what" to do rather than "how" to do it.
-* **Data-Driven Testing:** Externalized test data management to run the same scenarios with multiple inputs without changing code.
-* **Utilities Layer:** Robust helper classes for explicit waits, screenshot capturing, and file handling.
-
----
-
-## 🛠 Tech Stack
-
-| **Language** | Java |
-| **Automation Tool** | Selenium WebDriver |
-| **Build Tool** | Maven |
-| **Test Runner** | TestNG / JUnit |
-| **Design Patterns** | POM, Page Factory, Business Objects |
-
----
+✅ **Page Object Model (POM) Design Pattern**
+✅ **Page Factory**
+✅ **Business Objects (BO)**
+✅ **Data-Driven Testing**
+✅ **Utilities Layer**
+✅ **Parallel Execution Support**
+✅ **Cross Browser Testing**
+✅ **Maven Build Management **
+✅ **TestNG Execution and Assertions**
+✅ **HTML Reports (Extent Reports / TestNG Reports)**
+✅ **Logging using Log4j2**
+✅ **Screenshot Capture on Failure**
