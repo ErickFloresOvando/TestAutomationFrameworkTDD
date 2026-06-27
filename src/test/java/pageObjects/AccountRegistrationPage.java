@@ -35,6 +35,8 @@ public class AccountRegistrationPage extends BasePage {
     WebElement btnContinue;
     @FindBy(xpath = "//h1[normalize-space()='Your Account Has Been Created!']")
     WebElement msgConfirmation;
+    @FindBy(xpath = "//div[contains(@class,'alert-dismissible')]")
+    WebElement msgWarning;
 
 
     //Action methods
@@ -92,6 +94,14 @@ public class AccountRegistrationPage extends BasePage {
     public String getConfirmationMsg() {
         try {
             return (msgConfirmation.getText());
+        } catch (Exception e) {
+            return (e.getMessage());
+        }
+    }
+
+    public String getWarningMsg() {
+        try {
+            return (msgWarning.getText());
         } catch (Exception e) {
             return (e.getMessage());
         }

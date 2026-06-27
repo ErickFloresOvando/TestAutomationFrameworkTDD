@@ -1,4 +1,4 @@
-package testCases;
+package testCases.searchAndCatalog;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
