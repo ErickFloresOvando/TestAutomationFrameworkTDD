@@ -15,3 +15,33 @@
 12:46:39.440 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Finished TC001_AccountRegistrationTest ****
 12:46:43.837 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002_LoginTest ****
 12:46:45.756 [main] INFO  testCases.TC002_LoginTest - **** Finished TC002_LoginTest ****
+22:31:12.417 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:33:01.665 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:47:54.408 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:48:25.977 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:49:44.128 [main] INFO  testCases.accountManagement.RegisterPage - **** Starting [TC-001] Registro exitoso con campos obligatorios ****
+22:49:44.194 [main] INFO  testCases.accountManagement.RegisterPage - Clicked on MyAccount Link
+22:49:44.820 [main] INFO  testCases.accountManagement.RegisterPage - Clicked on Register Link
+22:49:55.580 [main] INFO  testCases.accountManagement.RegisterPage - Validating expected message...
+22:49:55.602 [main] INFO  testCases.accountManagement.RegisterPage - **** Finished [TC-001] Registro exitoso con campos obligatorios ****
+22:49:55.611 [main] INFO  testCases.accountManagement.RegisterPage - **** Starting [TC-001] Registro exitoso con campos obligatorios ****
+22:49:55.700 [main] INFO  testCases.accountManagement.RegisterPage - Clicked on MyAccount Link
+22:50:05.843 [main] INFO  testCases.accountManagement.RegisterPage - **** Starting [TC-001] Registro exitoso con campos obligatorios ****
+22:50:05.868 [main] INFO  testCases.accountManagement.RegisterPage - Clicked on MyAccount Link
+22:50:15.986 [main] INFO  testCases.accountManagement.RegisterPage - **** Starting [TC-001] Registro exitoso con campos obligatorios ****
+22:50:16.015 [main] INFO  testCases.accountManagement.RegisterPage - Clicked on MyAccount Link
+22:50:26.139 [main] INFO  testCases.accountManagement.RegisterPage - **** Starting [TC-001] Registro exitoso con campos obligatorios ****
+22:50:26.166 [main] INFO  testCases.accountManagement.RegisterPage - Clicked on MyAccount Link
+23:01:38.893 [main] INFO  testCases.accountManagement.RegisterPageTest - **** Starting [TC-001] Registro exitoso con campos obligatorios ****
+23:01:38.964 [main] INFO  testCases.accountManagement.RegisterPageTest - Clicked on MyAccount Link
+23:01:39.580 [main] INFO  testCases.accountManagement.RegisterPageTest - Clicked on Register Link
+23:01:50.297 [main] INFO  testCases.accountManagement.RegisterPageTest - Validating expected message...
+23:01:50.322 [main] INFO  testCases.accountManagement.RegisterPageTest - **** Finished [TC-001] Registro exitoso con campos obligatorios ****

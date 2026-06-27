@@ -38,28 +38,28 @@ public class AccountRegistrationPage extends BasePage {
 
 
     //Action methods
-    public void setFirstName(String fname) {
-        txtFirstName.sendKeys(fname);
+    public void setFirstName(String firstName) {
+        txtFirstName.sendKeys(firstName);
     }
 
-    public void setLastName(String lname) {
-        txtLastName.sendKeys(lname);
+    public void setLastName(String lastName) {
+        txtLastName.sendKeys(lastName);
     }
 
     public void setEmail(String email) {
         txtEmail.sendKeys(email);
     }
 
-    public void setTelephone(String tel) {
-        txtTelephone.sendKeys(tel);
+    public void setTelephone(String telephone) {
+        txtTelephone.sendKeys(telephone);
     }
 
-    public void setPassword(String pwd) {
-        txtPassword.sendKeys(pwd);
+    public void setPassword(String password) {
+        txtPassword.sendKeys(password);
     }
 
-    public void setConfirmPassword(String pwd) {
-        txtConfirmPassword.sendKeys(pwd);
+    public void setConfirmPassword(String confirmPassword) {
+        txtConfirmPassword.sendKeys(confirmPassword);
     }
 
     public void setPrivacyPolicy() {

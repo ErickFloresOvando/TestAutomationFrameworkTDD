@@ -1,4 +1,4 @@
-package testCases;
+package testCases.accountManagement;
 
 
 import org.testng.Assert;
@@ -6,16 +6,17 @@ import org.testng.annotations.Test;
 import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
+import utilities.DataProviders;
 
 
-public class TC001_AccountRegistrationTest extends BaseClass  {
+public class RegisterPageTest extends BaseClass  {
 
 
-
-    @Test(groups = {"Regression","Master"})
-    public void verify_account_registration() {
+  
+    @Test(testName = "[TC-001] Registro exitoso con campos obligatorios", dataProvider = "RegisterPage", dataProviderClass = DataProviders.class, groups = {"Regression","Master"})
+    public void successfulRegistrationWithMandatoryFields(String firstName, String lastName, String email, String telephone, String password,String confirmPassword) throws InterruptedException {
         try{
-            logger.info("**** Starting TC001_AccountRegistrationTest ****");
+            logger.info("**** Starting [TC-001] Registro exitoso con campos obligatorios ****");
 
             HomePage hp = new HomePage(driver);
             hp.clickMyAccount();
@@ -26,14 +27,13 @@ public class TC001_AccountRegistrationTest extends BaseClass  {
 
             AccountRegistrationPage regpage = new AccountRegistrationPage(driver);
 
-            regpage.setFirstName(randomeString().toUpperCase());
-            regpage.setLastName(randomeString().toUpperCase());
-            regpage.setEmail(randomeString()+"@gmail.com");
-            regpage.setTelephone(randomeNumber());
+            regpage.setFirstName(firstName);
+            regpage.setLastName(lastName);
+            regpage.setEmail(email);
+            regpage.setTelephone(telephone);
 
-            String password = randomAlphaNumeric();
             regpage.setPassword(password);
-            regpage.setConfirmPassword(password);
+            regpage.setConfirmPassword(confirmPassword);
 
             Thread.sleep(9000);
             regpage.setPrivacyPolicy();
@@ -54,13 +54,15 @@ public class TC001_AccountRegistrationTest extends BaseClass  {
         }catch (Exception e){
             Assert.fail();
         }
-        logger.info("**** Finished TC001_AccountRegistrationTest ****");
+        logger.info("**** Finished [TC-001] Registro exitoso con campos obligatorios ****");
 
     }
+
+}
 
     //Test Case 2
 
     //Test Case 3
 
 
-}
+
